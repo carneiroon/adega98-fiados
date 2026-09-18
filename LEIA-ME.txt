@@ -1,17 +1,13 @@
-ADEGA 98 — GESTÃO DE FIADOS — V2
+ADEGA 98 — GESTÃO DE FIADOS — VERSÃO 3.0
 
 Novidades:
-- Dia habitual de pagamento por cliente.
-- Juros padrão configurável por cliente (% por semana).
-- Juros configuráveis em cada fiado.
-- Prazo em dias com cálculo automático do vencimento.
-- Opção de usar o dia habitual de pagamento do cliente.
-- Edição completa dos dados do cliente.
-- Edição do fiado, vencimento e juros.
-- Saldo atualizado considerando juros configurados após o vencimento.
-- Backup e restauração mantidos.
+- Exclusão de qualquer cliente, inclusive com pendências, mediante confirmação.
+- Tela do cliente separa pendências em aberto do histórico quitado.
+- Botão para voltar diretamente à página inicial.
+- Mantidos edição de cliente, prazos, dia habitual, juros ajustáveis, pagamentos e backup.
 
-IMPORTANTE:
-Este é um aplicativo local (PWA) e os dados ficam no navegador/aparelho. Faça backups regularmente.
-Atenção especial a CPF, endereço, telefone e informações financeiras: não use dados reais em ambiente público/teste até que uma versão com armazenamento seguro e autenticação seja implementada.
-Os juros são apenas uma função de cálculo do sistema. Qualquer cobrança de juros/encargos deve observar a legislação e as condições aplicáveis.
+ATENÇÃO:
+Os dados ficam no armazenamento local do navegador e neste aparelho. Faça backups frequentes.
+A versão pública do GitHub Pages não oferece login nem banco de dados compartilhado.
+Não use dados reais sensíveis em computadores públicos.
+Juros e encargos devem respeitar a legislação e as condições aplicáveis ao negócio.
