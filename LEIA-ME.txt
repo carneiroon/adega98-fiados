@@ -11,3 +11,5 @@ Os dados ficam no armazenamento local do navegador e neste aparelho. Faça backu
 A versão pública do GitHub Pages não oferece login nem banco de dados compartilhado.
 Não use dados reais sensíveis em computadores públicos.
 Juros e encargos devem respeitar a legislação e as condições aplicáveis ao negócio.
+
+Versão 7: cada novo fiado registra automaticamente a data e o horário do lançamento. Registros antigos podem aparecer sem horário.
